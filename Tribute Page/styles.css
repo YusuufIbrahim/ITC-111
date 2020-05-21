@@ -1,0 +1,50 @@
+#.kendrickLamar {
+    background-color: red;
+    padding: 40px;
+    text-align: center;
+    color: white;
+}
+body{
+    background-image: url(https://miro.medium.com/max/2160/0*_0T_PMJgh--Lgtpf.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    background-size: 20%;
+    background-color: black;
+    text-align: center;
+}
+img {
+    width: 20%;
+}
+li, strong, h4 {
+    color: white;
+}
+h1 {
+    color: white;
+    background-color: red;
+}
+h2 {
+    color: red;
+}
+a {
+    color: red;
+}
+p {
+    text-align: center;
+    color: white;
+}
+#red {
+    background-color: red;
+}
+.video1, .img1 {
+    float: left;
+    padding: 12px;"
+}
+.video2, .img2 {
+    float: right;
+    padding: 12px;"
+}
+.video1-2, .img1-2 {
+    clear:both;
+}
